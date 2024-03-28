@@ -1,0 +1,1001 @@
+CrewID,Name,Position,Qualifications,ContractualConstraints
+1,Crew_1,Flight Attendant,Qual_A,Consecutive_days off
+2,Crew_2,Flight Attendant,Qual_B,Preferred off on weekends
+3,Crew_3,Pilot,Qual_C,Overtime on_weekends
+4,Crew_4,Pilot,Qual_A,Consecutive_days off
+5,Crew_5,Pilot,Qual_B,Preferred off on weekends
+6,Crew_6,Co-Pilot,Qual_C,Overtime on_weekends
+7,Crew_7,Co-Pilot,Qual_A,Consecutive_days off
+8,Crew_8,Flight Attendant,Qual_B,Preferred off on weekends
+9,Crew_9,Flight Attendant,Qual_C,Overtime on_weekends
+10,Crew_10,Flight Attendant,Qual_A,Consecutive_days off
+11,Crew_11,Pilot,Qual_B,Preferred off on weekends
+12,Crew_12,Flight Attendant,Qual_C,Overtime on_weekends
+13,Crew_13,Flight Attendant,Qual_A,Consecutive_days off
+14,Crew_14,Pilot,Qual_B,Preferred off on weekends
+15,Crew_15,Flight Attendant,Qual_C,Overtime on_weekends
+16,Crew_16,Pilot,Qual_A,Consecutive_days off
+17,Crew_17,Flight Attendant,Qual_B,Preferred off on weekends
+18,Crew_18,Co-Pilot,Qual_C,Overtime on_weekends
+19,Crew_19,Flight Attendant,Qual_A,Consecutive_days off
+20,Crew_20,Co-Pilot,Qual_B,Preferred off on weekends
+21,Crew_21,Flight Attendant,Qual_C,Overtime on_weekends
+22,Crew_22,Co-Pilot,Qual_A,Consecutive_days off
+23,Crew_23,Pilot,Qual_B,Preferred off on weekends
+24,Crew_24,Flight Attendant,Qual_C,Overtime on_weekends
+25,Crew_25,Co-Pilot,Qual_A,Consecutive_days off
+26,Crew_26,Co-Pilot,Qual_B,Preferred off on weekends
+27,Crew_27,Pilot,Qual_C,Overtime on_weekends
+28,Crew_28,Pilot,Qual_A,Consecutive_days off
+29,Crew_29,Co-Pilot,Qual_B,Preferred off on weekends
+30,Crew_30,Flight Attendant,Qual_C,Overtime on_weekends
+31,Crew_31,Flight Attendant,Qual_A,Consecutive_days off
+32,Crew_32,Flight Attendant,Qual_B,Preferred off on weekends
+33,Crew_33,Co-Pilot,Qual_C,Overtime on_weekends
+34,Crew_34,Pilot,Qual_A,Consecutive_days off
+35,Crew_35,Pilot,Qual_B,Preferred off on weekends
+36,Crew_36,Flight Attendant,Qual_C,Overtime on_weekends
+37,Crew_37,Flight Attendant,Qual_A,Consecutive_days off
+38,Crew_38,Co-Pilot,Qual_B,Preferred off on weekends
+39,Crew_39,Flight Attendant,Qual_C,Overtime on_weekends
+40,Crew_40,Co-Pilot,Qual_A,Consecutive_days off
+41,Crew_41,Co-Pilot,Qual_B,Preferred off on weekends
+42,Crew_42,Pilot,Qual_C,Overtime on_weekends
+43,Crew_43,Flight Attendant,Qual_A,Consecutive_days off
+44,Crew_44,Pilot,Qual_B,Preferred off on weekends
+45,Crew_45,Flight Attendant,Qual_C,Overtime on_weekends
+46,Crew_46,Co-Pilot,Qual_A,Consecutive_days off
+47,Crew_47,Flight Attendant,Qual_B,Preferred off on weekends
+48,Crew_48,Co-Pilot,Qual_C,Overtime on_weekends
+49,Crew_49,Co-Pilot,Qual_A,Consecutive_days off
+50,Crew_50,Flight Attendant,Qual_B,Preferred off on weekends
+51,Crew_51,Flight Attendant,Qual_C,Overtime on_weekends
+52,Crew_52,Pilot,Qual_A,Consecutive_days off
+53,Crew_53,Co-Pilot,Qual_B,Preferred off on weekends
+54,Crew_54,Pilot,Qual_C,Overtime on_weekends
+55,Crew_55,Flight Attendant,Qual_A,Consecutive_days off
+56,Crew_56,Co-Pilot,Qual_B,Preferred off on weekends
+57,Crew_57,Pilot,Qual_C,Overtime on_weekends
+58,Crew_58,Flight Attendant,Qual_A,Consecutive_days off
+59,Crew_59,Flight Attendant,Qual_B,Preferred off on weekends
+60,Crew_60,Flight Attendant,Qual_C,Overtime on_weekends
+61,Crew_61,Co-Pilot,Qual_A,Consecutive_days off
+62,Crew_62,Co-Pilot,Qual_B,Preferred off on weekends
+63,Crew_63,Pilot,Qual_C,Overtime on_weekends
+64,Crew_64,Pilot,Qual_A,Consecutive_days off
+65,Crew_65,Co-Pilot,Qual_B,Preferred off on weekends
+66,Crew_66,Pilot,Qual_C,Overtime on_weekends
+67,Crew_67,Pilot,Qual_A,Consecutive_days off
+68,Crew_68,Pilot,Qual_B,Preferred off on weekends
+69,Crew_69,Co-Pilot,Qual_C,Overtime on_weekends
+70,Crew_70,Pilot,Qual_A,Consecutive_days off
+71,Crew_71,Flight Attendant,Qual_B,Preferred off on weekends
+72,Crew_72,Flight Attendant,Qual_C,Overtime on_weekends
+73,Crew_73,Flight Attendant,Qual_A,Consecutive_days off
+74,Crew_74,Co-Pilot,Qual_B,Preferred off on weekends
+75,Crew_75,Flight Attendant,Qual_C,Overtime on_weekends
+76,Crew_76,Flight Attendant,Qual_A,Consecutive_days off
+77,Crew_77,Pilot,Qual_B,Preferred off on weekends
+78,Crew_78,Flight Attendant,Qual_C,Overtime on_weekends
+79,Crew_79,Co-Pilot,Qual_A,Consecutive_days off
+80,Crew_80,Co-Pilot,Qual_B,Preferred off on weekends
+81,Crew_81,Co-Pilot,Qual_C,Overtime on_weekends
+82,Crew_82,Pilot,Qual_A,Consecutive_days off
+83,Crew_83,Flight Attendant,Qual_B,Preferred off on weekends
+84,Crew_84,Pilot,Qual_C,Overtime on_weekends
+85,Crew_85,Flight Attendant,Qual_A,Consecutive_days off
+86,Crew_86,Flight Attendant,Qual_B,Preferred off on weekends
+87,Crew_87,Pilot,Qual_C,Overtime on_weekends
+88,Crew_88,Co-Pilot,Qual_A,Consecutive_days off
+89,Crew_89,Co-Pilot,Qual_B,Preferred off on weekends
+90,Crew_90,Flight Attendant,Qual_C,Overtime on_weekends
+91,Crew_91,Pilot,Qual_A,Consecutive_days off
+92,Crew_92,Co-Pilot,Qual_B,Preferred off on weekends
+93,Crew_93,Flight Attendant,Qual_C,Overtime on_weekends
+94,Crew_94,Flight Attendant,Qual_A,Consecutive_days off
+95,Crew_95,Pilot,Qual_B,Preferred off on weekends
+96,Crew_96,Flight Attendant,Qual_C,Overtime on_weekends
+97,Crew_97,Co-Pilot,Qual_A,Consecutive_days off
+98,Crew_98,Flight Attendant,Qual_B,Preferred off on weekends
+99,Crew_99,Flight Attendant,Qual_C,Overtime on_weekends
+100,Crew_100,Flight Attendant,Qual_A,Consecutive_days off
+101,Crew_101,Pilot,Qual_B,Preferred off on weekends
+102,Crew_102,Flight Attendant,Qual_C,Overtime on_weekends
+103,Crew_103,Pilot,Qual_A,Consecutive_days off
+104,Crew_104,Pilot,Qual_B,Preferred off on weekends
+105,Crew_105,Pilot,Qual_C,Overtime on_weekends
+106,Crew_106,Co-Pilot,Qual_A,Consecutive_days off
+107,Crew_107,Flight Attendant,Qual_B,Preferred off on weekends
+108,Crew_108,Co-Pilot,Qual_C,Overtime on_weekends
+109,Crew_109,Co-Pilot,Qual_A,Consecutive_days off
+110,Crew_110,Flight Attendant,Qual_B,Preferred off on weekends
+111,Crew_111,Co-Pilot,Qual_C,Overtime on_weekends
+112,Crew_112,Co-Pilot,Qual_A,Consecutive_days off
+113,Crew_113,Co-Pilot,Qual_B,Preferred off on weekends
+114,Crew_114,Co-Pilot,Qual_C,Overtime on_weekends
+115,Crew_115,Pilot,Qual_A,Consecutive_days off
+116,Crew_116,Pilot,Qual_B,Preferred off on weekends
+117,Crew_117,Pilot,Qual_C,Overtime on_weekends
+118,Crew_118,Pilot,Qual_A,Consecutive_days off
+119,Crew_119,Flight Attendant,Qual_B,Preferred off on weekends
+120,Crew_120,Pilot,Qual_C,Overtime on_weekends
+121,Crew_121,Flight Attendant,Qual_A,Consecutive_days off
+122,Crew_122,Pilot,Qual_B,Preferred off on weekends
+123,Crew_123,Co-Pilot,Qual_C,Overtime on_weekends
+124,Crew_124,Co-Pilot,Qual_A,Consecutive_days off
+125,Crew_125,Co-Pilot,Qual_B,Preferred off on weekends
+126,Crew_126,Pilot,Qual_C,Overtime on_weekends
+127,Crew_127,Flight Attendant,Qual_A,Consecutive_days off
+128,Crew_128,Co-Pilot,Qual_B,Preferred off on weekends
+129,Crew_129,Flight Attendant,Qual_C,Overtime on_weekends
+130,Crew_130,Pilot,Qual_A,Consecutive_days off
+131,Crew_131,Co-Pilot,Qual_B,Preferred off on weekends
+132,Crew_132,Pilot,Qual_C,Overtime on_weekends
+133,Crew_133,Co-Pilot,Qual_A,Consecutive_days off
+134,Crew_134,Flight Attendant,Qual_B,Preferred off on weekends
+135,Crew_135,Co-Pilot,Qual_C,Overtime on_weekends
+136,Crew_136,Flight Attendant,Qual_A,Consecutive_days off
+137,Crew_137,Pilot,Qual_B,Preferred off on weekends
+138,Crew_138,Co-Pilot,Qual_C,Overtime on_weekends
+139,Crew_139,Co-Pilot,Qual_A,Consecutive_days off
+140,Crew_140,Flight Attendant,Qual_B,Preferred off on weekends
+141,Crew_141,Flight Attendant,Qual_C,Overtime on_weekends
+142,Crew_142,Flight Attendant,Qual_A,Consecutive_days off
+143,Crew_143,Pilot,Qual_B,Preferred off on weekends
+144,Crew_144,Pilot,Qual_C,Overtime on_weekends
+145,Crew_145,Flight Attendant,Qual_A,Consecutive_days off
+146,Crew_146,Pilot,Qual_B,Preferred off on weekends
+147,Crew_147,Co-Pilot,Qual_C,Overtime on_weekends
+148,Crew_148,Pilot,Qual_A,Consecutive_days off
+149,Crew_149,Flight Attendant,Qual_B,Preferred off on weekends
+150,Crew_150,Pilot,Qual_C,Overtime on_weekends
+151,Crew_151,Pilot,Qual_A,Consecutive_days off
+152,Crew_152,Pilot,Qual_B,Preferred off on weekends
+153,Crew_153,Co-Pilot,Qual_C,Overtime on_weekends
+154,Crew_154,Flight Attendant,Qual_A,Consecutive_days off
+155,Crew_155,Flight Attendant,Qual_B,Preferred off on weekends
+156,Crew_156,Flight Attendant,Qual_C,Overtime on_weekends
+157,Crew_157,Pilot,Qual_A,Consecutive_days off
+158,Crew_158,Co-Pilot,Qual_B,Preferred off on weekends
+159,Crew_159,Co-Pilot,Qual_C,Overtime on_weekends
+160,Crew_160,Co-Pilot,Qual_A,Consecutive_days off
+161,Crew_161,Co-Pilot,Qual_B,Preferred off on weekends
+162,Crew_162,Co-Pilot,Qual_C,Overtime on_weekends
+163,Crew_163,Co-Pilot,Qual_A,Consecutive_days off
+164,Crew_164,Co-Pilot,Qual_B,Preferred off on weekends
+165,Crew_165,Co-Pilot,Qual_C,Overtime on_weekends
+166,Crew_166,Flight Attendant,Qual_A,Consecutive_days off
+167,Crew_167,Pilot,Qual_B,Preferred off on weekends
+168,Crew_168,Pilot,Qual_C,Overtime on_weekends
+169,Crew_169,Pilot,Qual_A,Consecutive_days off
+170,Crew_170,Pilot,Qual_B,Preferred off on weekends
+171,Crew_171,Flight Attendant,Qual_C,Overtime on_weekends
+172,Crew_172,Pilot,Qual_A,Consecutive_days off
+173,Crew_173,Flight Attendant,Qual_B,Preferred off on weekends
+174,Crew_174,Pilot,Qual_C,Overtime on_weekends
+175,Crew_175,Co-Pilot,Qual_A,Consecutive_days off
+176,Crew_176,Co-Pilot,Qual_B,Preferred off on weekends
+177,Crew_177,Co-Pilot,Qual_C,Overtime on_weekends
+178,Crew_178,Co-Pilot,Qual_A,Consecutive_days off
+179,Crew_179,Flight Attendant,Qual_B,Preferred off on weekends
+180,Crew_180,Co-Pilot,Qual_C,Overtime on_weekends
+181,Crew_181,Pilot,Qual_A,Consecutive_days off
+182,Crew_182,Co-Pilot,Qual_B,Preferred off on weekends
+183,Crew_183,Co-Pilot,Qual_C,Overtime on_weekends
+184,Crew_184,Pilot,Qual_A,Consecutive_days off
+185,Crew_185,Pilot,Qual_B,Preferred off on weekends
+186,Crew_186,Co-Pilot,Qual_C,Overtime on_weekends
+187,Crew_187,Pilot,Qual_A,Consecutive_days off
+188,Crew_188,Pilot,Qual_B,Preferred off on weekends
+189,Crew_189,Flight Attendant,Qual_C,Overtime on_weekends
+190,Crew_190,Flight Attendant,Qual_A,Consecutive_days off
+191,Crew_191,Pilot,Qual_B,Preferred off on weekends
+192,Crew_192,Flight Attendant,Qual_C,Overtime on_weekends
+193,Crew_193,Flight Attendant,Qual_A,Consecutive_days off
+194,Crew_194,Flight Attendant,Qual_B,Preferred off on weekends
+195,Crew_195,Flight Attendant,Qual_C,Overtime on_weekends
+196,Crew_196,Pilot,Qual_A,Consecutive_days off
+197,Crew_197,Co-Pilot,Qual_B,Preferred off on weekends
+198,Crew_198,Pilot,Qual_C,Overtime on_weekends
+199,Crew_199,Flight Attendant,Qual_A,Consecutive_days off
+200,Crew_200,Pilot,Qual_B,Preferred off on weekends
+201,Crew_201,Flight Attendant,Qual_C,Overtime on_weekends
+202,Crew_202,Pilot,Qual_A,Consecutive_days off
+203,Crew_203,Pilot,Qual_B,Preferred off on weekends
+204,Crew_204,Pilot,Qual_C,Overtime on_weekends
+205,Crew_205,Co-Pilot,Qual_A,Consecutive_days off
+206,Crew_206,Co-Pilot,Qual_B,Preferred off on weekends
+207,Crew_207,Flight Attendant,Qual_C,Overtime on_weekends
+208,Crew_208,Co-Pilot,Qual_A,Consecutive_days off
+209,Crew_209,Co-Pilot,Qual_B,Preferred off on weekends
+210,Crew_210,Flight Attendant,Qual_C,Overtime on_weekends
+211,Crew_211,Co-Pilot,Qual_A,Consecutive_days off
+212,Crew_212,Co-Pilot,Qual_B,Preferred off on weekends
+213,Crew_213,Flight Attendant,Qual_C,Overtime on_weekends
+214,Crew_214,Pilot,Qual_A,Consecutive_days off
+215,Crew_215,Pilot,Qual_B,Preferred off on weekends
+216,Crew_216,Flight Attendant,Qual_C,Overtime on_weekends
+217,Crew_217,Pilot,Qual_A,Consecutive_days off
+218,Crew_218,Flight Attendant,Qual_B,Preferred off on weekends
+219,Crew_219,Co-Pilot,Qual_C,Overtime on_weekends
+220,Crew_220,Co-Pilot,Qual_A,Consecutive_days off
+221,Crew_221,Pilot,Qual_B,Preferred off on weekends
+222,Crew_222,Co-Pilot,Qual_C,Overtime on_weekends
+223,Crew_223,Pilot,Qual_A,Consecutive_days off
+224,Crew_224,Flight Attendant,Qual_B,Preferred off on weekends
+225,Crew_225,Co-Pilot,Qual_C,Overtime on_weekends
+226,Crew_226,Co-Pilot,Qual_A,Consecutive_days off
+227,Crew_227,Pilot,Qual_B,Preferred off on weekends
+228,Crew_228,Pilot,Qual_C,Overtime on_weekends
+229,Crew_229,Pilot,Qual_A,Consecutive_days off
+230,Crew_230,Co-Pilot,Qual_B,Preferred off on weekends
+231,Crew_231,Flight Attendant,Qual_C,Overtime on_weekends
+232,Crew_232,Flight Attendant,Qual_A,Consecutive_days off
+233,Crew_233,Pilot,Qual_B,Preferred off on weekends
+234,Crew_234,Flight Attendant,Qual_C,Overtime on_weekends
+235,Crew_235,Co-Pilot,Qual_A,Consecutive_days off
+236,Crew_236,Pilot,Qual_B,Preferred off on weekends
+237,Crew_237,Co-Pilot,Qual_C,Overtime on_weekends
+238,Crew_238,Flight Attendant,Qual_A,Consecutive_days off
+239,Crew_239,Co-Pilot,Qual_B,Preferred off on weekends
+240,Crew_240,Flight Attendant,Qual_C,Overtime on_weekends
+241,Crew_241,Pilot,Qual_A,Consecutive_days off
+242,Crew_242,Pilot,Qual_B,Preferred off on weekends
+243,Crew_243,Pilot,Qual_C,Overtime on_weekends
+244,Crew_244,Pilot,Qual_A,Consecutive_days off
+245,Crew_245,Flight Attendant,Qual_B,Preferred off on weekends
+246,Crew_246,Pilot,Qual_C,Overtime on_weekends
+247,Crew_247,Co-Pilot,Qual_A,Consecutive_days off
+248,Crew_248,Flight Attendant,Qual_B,Preferred off on weekends
+249,Crew_249,Flight Attendant,Qual_C,Overtime on_weekends
+250,Crew_250,Co-Pilot,Qual_A,Consecutive_days off
+251,Crew_251,Co-Pilot,Qual_B,Preferred off on weekends
+252,Crew_252,Flight Attendant,Qual_C,Overtime on_weekends
+253,Crew_253,Co-Pilot,Qual_A,Consecutive_days off
+254,Crew_254,Flight Attendant,Qual_B,Preferred off on weekends
+255,Crew_255,Pilot,Qual_C,Overtime on_weekends
+256,Crew_256,Co-Pilot,Qual_A,Consecutive_days off
+257,Crew_257,Co-Pilot,Qual_B,Preferred off on weekends
+258,Crew_258,Co-Pilot,Qual_C,Overtime on_weekends
+259,Crew_259,Flight Attendant,Qual_A,Consecutive_days off
+260,Crew_260,Co-Pilot,Qual_B,Preferred off on weekends
+261,Crew_261,Co-Pilot,Qual_C,Overtime on_weekends
+262,Crew_262,Co-Pilot,Qual_A,Consecutive_days off
+263,Crew_263,Pilot,Qual_B,Preferred off on weekends
+264,Crew_264,Pilot,Qual_C,Overtime on_weekends
+265,Crew_265,Co-Pilot,Qual_A,Consecutive_days off
+266,Crew_266,Flight Attendant,Qual_B,Preferred off on weekends
+267,Crew_267,Co-Pilot,Qual_C,Overtime on_weekends
+268,Crew_268,Flight Attendant,Qual_A,Consecutive_days off
+269,Crew_269,Co-Pilot,Qual_B,Preferred off on weekends
+270,Crew_270,Co-Pilot,Qual_C,Overtime on_weekends
+271,Crew_271,Co-Pilot,Qual_A,Consecutive_days off
+272,Crew_272,Pilot,Qual_B,Preferred off on weekends
+273,Crew_273,Flight Attendant,Qual_C,Overtime on_weekends
+274,Crew_274,Flight Attendant,Qual_A,Consecutive_days off
+275,Crew_275,Flight Attendant,Qual_B,Preferred off on weekends
+276,Crew_276,Flight Attendant,Qual_C,Overtime on_weekends
+277,Crew_277,Co-Pilot,Qual_A,Consecutive_days off
+278,Crew_278,Pilot,Qual_B,Preferred off on weekends
+279,Crew_279,Co-Pilot,Qual_C,Overtime on_weekends
+280,Crew_280,Pilot,Qual_A,Consecutive_days off
+281,Crew_281,Flight Attendant,Qual_B,Preferred off on weekends
+282,Crew_282,Pilot,Qual_C,Overtime on_weekends
+283,Crew_283,Flight Attendant,Qual_A,Consecutive_days off
+284,Crew_284,Flight Attendant,Qual_B,Preferred off on weekends
+285,Crew_285,Pilot,Qual_C,Overtime on_weekends
+286,Crew_286,Pilot,Qual_A,Consecutive_days off
+287,Crew_287,Pilot,Qual_B,Preferred off on weekends
+288,Crew_288,Flight Attendant,Qual_C,Overtime on_weekends
+289,Crew_289,Flight Attendant,Qual_A,Consecutive_days off
+290,Crew_290,Pilot,Qual_B,Preferred off on weekends
+291,Crew_291,Pilot,Qual_C,Overtime on_weekends
+292,Crew_292,Flight Attendant,Qual_A,Consecutive_days off
+293,Crew_293,Co-Pilot,Qual_B,Preferred off on weekends
+294,Crew_294,Pilot,Qual_C,Overtime on_weekends
+295,Crew_295,Pilot,Qual_A,Consecutive_days off
+296,Crew_296,Co-Pilot,Qual_B,Preferred off on weekends
+297,Crew_297,Co-Pilot,Qual_C,Overtime on_weekends
+298,Crew_298,Co-Pilot,Qual_A,Consecutive_days off
+299,Crew_299,Co-Pilot,Qual_B,Preferred off on weekends
+300,Crew_300,Co-Pilot,Qual_C,Overtime on_weekends
+301,Crew_301,Co-Pilot,Qual_A,Consecutive_days off
+302,Crew_302,Pilot,Qual_B,Preferred off on weekends
+303,Crew_303,Co-Pilot,Qual_C,Overtime on_weekends
+304,Crew_304,Flight Attendant,Qual_A,Consecutive_days off
+305,Crew_305,Pilot,Qual_B,Preferred off on weekends
+306,Crew_306,Pilot,Qual_C,Overtime on_weekends
+307,Crew_307,Pilot,Qual_A,Consecutive_days off
+308,Crew_308,Pilot,Qual_B,Preferred off on weekends
+309,Crew_309,Pilot,Qual_C,Overtime on_weekends
+310,Crew_310,Pilot,Qual_A,Consecutive_days off
+311,Crew_311,Co-Pilot,Qual_B,Preferred off on weekends
+312,Crew_312,Pilot,Qual_C,Overtime on_weekends
+313,Crew_313,Co-Pilot,Qual_A,Consecutive_days off
+314,Crew_314,Flight Attendant,Qual_B,Preferred off on weekends
+315,Crew_315,Co-Pilot,Qual_C,Overtime on_weekends
+316,Crew_316,Pilot,Qual_A,Consecutive_days off
+317,Crew_317,Co-Pilot,Qual_B,Preferred off on weekends
+318,Crew_318,Co-Pilot,Qual_C,Overtime on_weekends
+319,Crew_319,Pilot,Qual_A,Consecutive_days off
+320,Crew_320,Pilot,Qual_B,Preferred off on weekends
+321,Crew_321,Co-Pilot,Qual_C,Overtime on_weekends
+322,Crew_322,Pilot,Qual_A,Consecutive_days off
+323,Crew_323,Co-Pilot,Qual_B,Preferred off on weekends
+324,Crew_324,Co-Pilot,Qual_C,Overtime on_weekends
+325,Crew_325,Co-Pilot,Qual_A,Consecutive_days off
+326,Crew_326,Co-Pilot,Qual_B,Preferred off on weekends
+327,Crew_327,Flight Attendant,Qual_C,Overtime on_weekends
+328,Crew_328,Co-Pilot,Qual_A,Consecutive_days off
+329,Crew_329,Co-Pilot,Qual_B,Preferred off on weekends
+330,Crew_330,Co-Pilot,Qual_C,Overtime on_weekends
+331,Crew_331,Co-Pilot,Qual_A,Consecutive_days off
+332,Crew_332,Pilot,Qual_B,Preferred off on weekends
+333,Crew_333,Co-Pilot,Qual_C,Overtime on_weekends
+334,Crew_334,Pilot,Qual_A,Consecutive_days off
+335,Crew_335,Co-Pilot,Qual_B,Preferred off on weekends
+336,Crew_336,Pilot,Qual_C,Overtime on_weekends
+337,Crew_337,Co-Pilot,Qual_A,Consecutive_days off
+338,Crew_338,Pilot,Qual_B,Preferred off on weekends
+339,Crew_339,Pilot,Qual_C,Overtime on_weekends
+340,Crew_340,Pilot,Qual_A,Consecutive_days off
+341,Crew_341,Pilot,Qual_B,Preferred off on weekends
+342,Crew_342,Pilot,Qual_C,Overtime on_weekends
+343,Crew_343,Co-Pilot,Qual_A,Consecutive_days off
+344,Crew_344,Flight Attendant,Qual_B,Preferred off on weekends
+345,Crew_345,Pilot,Qual_C,Overtime on_weekends
+346,Crew_346,Flight Attendant,Qual_A,Consecutive_days off
+347,Crew_347,Co-Pilot,Qual_B,Preferred off on weekends
+348,Crew_348,Flight Attendant,Qual_C,Overtime on_weekends
+349,Crew_349,Pilot,Qual_A,Consecutive_days off
+350,Crew_350,Pilot,Qual_B,Preferred off on weekends
+351,Crew_351,Co-Pilot,Qual_C,Overtime on_weekends
+352,Crew_352,Pilot,Qual_A,Consecutive_days off
+353,Crew_353,Co-Pilot,Qual_B,Preferred off on weekends
+354,Crew_354,Pilot,Qual_C,Overtime on_weekends
+355,Crew_355,Co-Pilot,Qual_A,Consecutive_days off
+356,Crew_356,Pilot,Qual_B,Preferred off on weekends
+357,Crew_357,Flight Attendant,Qual_C,Overtime on_weekends
+358,Crew_358,Co-Pilot,Qual_A,Consecutive_days off
+359,Crew_359,Co-Pilot,Qual_B,Preferred off on weekends
+360,Crew_360,Co-Pilot,Qual_C,Overtime on_weekends
+361,Crew_361,Pilot,Qual_A,Consecutive_days off
+362,Crew_362,Flight Attendant,Qual_B,Preferred off on weekends
+363,Crew_363,Co-Pilot,Qual_C,Overtime on_weekends
+364,Crew_364,Co-Pilot,Qual_A,Consecutive_days off
+365,Crew_365,Co-Pilot,Qual_B,Preferred off on weekends
+366,Crew_366,Pilot,Qual_C,Overtime on_weekends
+367,Crew_367,Pilot,Qual_A,Consecutive_days off
+368,Crew_368,Co-Pilot,Qual_B,Preferred off on weekends
+369,Crew_369,Co-Pilot,Qual_C,Overtime on_weekends
+370,Crew_370,Flight Attendant,Qual_A,Consecutive_days off
+371,Crew_371,Co-Pilot,Qual_B,Preferred off on weekends
+372,Crew_372,Co-Pilot,Qual_C,Overtime on_weekends
+373,Crew_373,Co-Pilot,Qual_A,Consecutive_days off
+374,Crew_374,Flight Attendant,Qual_B,Preferred off on weekends
+375,Crew_375,Flight Attendant,Qual_C,Overtime on_weekends
+376,Crew_376,Flight Attendant,Qual_A,Consecutive_days off
+377,Crew_377,Pilot,Qual_B,Preferred off on weekends
+378,Crew_378,Flight Attendant,Qual_C,Overtime on_weekends
+379,Crew_379,Flight Attendant,Qual_A,Consecutive_days off
+380,Crew_380,Pilot,Qual_B,Preferred off on weekends
+381,Crew_381,Flight Attendant,Qual_C,Overtime on_weekends
+382,Crew_382,Flight Attendant,Qual_A,Consecutive_days off
+383,Crew_383,Co-Pilot,Qual_B,Preferred off on weekends
+384,Crew_384,Pilot,Qual_C,Overtime on_weekends
+385,Crew_385,Co-Pilot,Qual_A,Consecutive_days off
+386,Crew_386,Flight Attendant,Qual_B,Preferred off on weekends
+387,Crew_387,Co-Pilot,Qual_C,Overtime on_weekends
+388,Crew_388,Flight Attendant,Qual_A,Consecutive_days off
+389,Crew_389,Pilot,Qual_B,Preferred off on weekends
+390,Crew_390,Flight Attendant,Qual_C,Overtime on_weekends
+391,Crew_391,Pilot,Qual_A,Consecutive_days off
+392,Crew_392,Flight Attendant,Qual_B,Preferred off on weekends
+393,Crew_393,Co-Pilot,Qual_C,Overtime on_weekends
+394,Crew_394,Flight Attendant,Qual_A,Consecutive_days off
+395,Crew_395,Flight Attendant,Qual_B,Preferred off on weekends
+396,Crew_396,Co-Pilot,Qual_C,Overtime on_weekends
+397,Crew_397,Pilot,Qual_A,Consecutive_days off
+398,Crew_398,Co-Pilot,Qual_B,Preferred off on weekends
+399,Crew_399,Co-Pilot,Qual_C,Overtime on_weekends
+400,Crew_400,Co-Pilot,Qual_A,Consecutive_days off
+401,Crew_401,Pilot,Qual_B,Preferred off on weekends
+402,Crew_402,Flight Attendant,Qual_C,Overtime on_weekends
+403,Crew_403,Pilot,Qual_A,Consecutive_days off
+404,Crew_404,Co-Pilot,Qual_B,Preferred off on weekends
+405,Crew_405,Flight Attendant,Qual_C,Overtime on_weekends
+406,Crew_406,Pilot,Qual_A,Consecutive_days off
+407,Crew_407,Pilot,Qual_B,Preferred off on weekends
+408,Crew_408,Pilot,Qual_C,Overtime on_weekends
+409,Crew_409,Co-Pilot,Qual_A,Consecutive_days off
+410,Crew_410,Co-Pilot,Qual_B,Preferred off on weekends
+411,Crew_411,Flight Attendant,Qual_C,Overtime on_weekends
+412,Crew_412,Pilot,Qual_A,Consecutive_days off
+413,Crew_413,Co-Pilot,Qual_B,Preferred off on weekends
+414,Crew_414,Flight Attendant,Qual_C,Overtime on_weekends
+415,Crew_415,Flight Attendant,Qual_A,Consecutive_days off
+416,Crew_416,Flight Attendant,Qual_B,Preferred off on weekends
+417,Crew_417,Co-Pilot,Qual_C,Overtime on_weekends
+418,Crew_418,Flight Attendant,Qual_A,Consecutive_days off
+419,Crew_419,Flight Attendant,Qual_B,Preferred off on weekends
+420,Crew_420,Flight Attendant,Qual_C,Overtime on_weekends
+421,Crew_421,Flight Attendant,Qual_A,Consecutive_days off
+422,Crew_422,Pilot,Qual_B,Preferred off on weekends
+423,Crew_423,Pilot,Qual_C,Overtime on_weekends
+424,Crew_424,Pilot,Qual_A,Consecutive_days off
+425,Crew_425,Co-Pilot,Qual_B,Preferred off on weekends
+426,Crew_426,Pilot,Qual_C,Overtime on_weekends
+427,Crew_427,Pilot,Qual_A,Consecutive_days off
+428,Crew_428,Co-Pilot,Qual_B,Preferred off on weekends
+429,Crew_429,Co-Pilot,Qual_C,Overtime on_weekends
+430,Crew_430,Co-Pilot,Qual_A,Consecutive_days off
+431,Crew_431,Co-Pilot,Qual_B,Preferred off on weekends
+432,Crew_432,Pilot,Qual_C,Overtime on_weekends
+433,Crew_433,Flight Attendant,Qual_A,Consecutive_days off
+434,Crew_434,Flight Attendant,Qual_B,Preferred off on weekends
+435,Crew_435,Flight Attendant,Qual_C,Overtime on_weekends
+436,Crew_436,Flight Attendant,Qual_A,Consecutive_days off
+437,Crew_437,Pilot,Qual_B,Preferred off on weekends
+438,Crew_438,Pilot,Qual_C,Overtime on_weekends
+439,Crew_439,Pilot,Qual_A,Consecutive_days off
+440,Crew_440,Co-Pilot,Qual_B,Preferred off on weekends
+441,Crew_441,Pilot,Qual_C,Overtime on_weekends
+442,Crew_442,Co-Pilot,Qual_A,Consecutive_days off
+443,Crew_443,Pilot,Qual_B,Preferred off on weekends
+444,Crew_444,Co-Pilot,Qual_C,Overtime on_weekends
+445,Crew_445,Pilot,Qual_A,Consecutive_days off
+446,Crew_446,Co-Pilot,Qual_B,Preferred off on weekends
+447,Crew_447,Co-Pilot,Qual_C,Overtime on_weekends
+448,Crew_448,Flight Attendant,Qual_A,Consecutive_days off
+449,Crew_449,Flight Attendant,Qual_B,Preferred off on weekends
+450,Crew_450,Flight Attendant,Qual_C,Overtime on_weekends
+451,Crew_451,Flight Attendant,Qual_A,Consecutive_days off
+452,Crew_452,Co-Pilot,Qual_B,Preferred off on weekends
+453,Crew_453,Flight Attendant,Qual_C,Overtime on_weekends
+454,Crew_454,Flight Attendant,Qual_A,Consecutive_days off
+455,Crew_455,Co-Pilot,Qual_B,Preferred off on weekends
+456,Crew_456,Flight Attendant,Qual_C,Overtime on_weekends
+457,Crew_457,Co-Pilot,Qual_A,Consecutive_days off
+458,Crew_458,Flight Attendant,Qual_B,Preferred off on weekends
+459,Crew_459,Flight Attendant,Qual_C,Overtime on_weekends
+460,Crew_460,Co-Pilot,Qual_A,Consecutive_days off
+461,Crew_461,Pilot,Qual_B,Preferred off on weekends
+462,Crew_462,Co-Pilot,Qual_C,Overtime on_weekends
+463,Crew_463,Pilot,Qual_A,Consecutive_days off
+464,Crew_464,Flight Attendant,Qual_B,Preferred off on weekends
+465,Crew_465,Pilot,Qual_C,Overtime on_weekends
+466,Crew_466,Pilot,Qual_A,Consecutive_days off
+467,Crew_467,Pilot,Qual_B,Preferred off on weekends
+468,Crew_468,Pilot,Qual_C,Overtime on_weekends
+469,Crew_469,Flight Attendant,Qual_A,Consecutive_days off
+470,Crew_470,Co-Pilot,Qual_B,Preferred off on weekends
+471,Crew_471,Pilot,Qual_C,Overtime on_weekends
+472,Crew_472,Pilot,Qual_A,Consecutive_days off
+473,Crew_473,Co-Pilot,Qual_B,Preferred off on weekends
+474,Crew_474,Flight Attendant,Qual_C,Overtime on_weekends
+475,Crew_475,Flight Attendant,Qual_A,Consecutive_days off
+476,Crew_476,Flight Attendant,Qual_B,Preferred off on weekends
+477,Crew_477,Co-Pilot,Qual_C,Overtime on_weekends
+478,Crew_478,Pilot,Qual_A,Consecutive_days off
+479,Crew_479,Co-Pilot,Qual_B,Preferred off on weekends
+480,Crew_480,Co-Pilot,Qual_C,Overtime on_weekends
+481,Crew_481,Co-Pilot,Qual_A,Consecutive_days off
+482,Crew_482,Pilot,Qual_B,Preferred off on weekends
+483,Crew_483,Pilot,Qual_C,Overtime on_weekends
+484,Crew_484,Co-Pilot,Qual_A,Consecutive_days off
+485,Crew_485,Pilot,Qual_B,Preferred off on weekends
+486,Crew_486,Pilot,Qual_C,Overtime on_weekends
+487,Crew_487,Pilot,Qual_A,Consecutive_days off
+488,Crew_488,Flight Attendant,Qual_B,Preferred off on weekends
+489,Crew_489,Co-Pilot,Qual_C,Overtime on_weekends
+490,Crew_490,Co-Pilot,Qual_A,Consecutive_days off
+491,Crew_491,Flight Attendant,Qual_B,Preferred off on weekends
+492,Crew_492,Flight Attendant,Qual_C,Overtime on_weekends
+493,Crew_493,Co-Pilot,Qual_A,Consecutive_days off
+494,Crew_494,Pilot,Qual_B,Preferred off on weekends
+495,Crew_495,Pilot,Qual_C,Overtime on_weekends
+496,Crew_496,Co-Pilot,Qual_A,Consecutive_days off
+497,Crew_497,Co-Pilot,Qual_B,Preferred off on weekends
+498,Crew_498,Flight Attendant,Qual_C,Overtime on_weekends
+499,Crew_499,Flight Attendant,Qual_A,Consecutive_days off
+500,Crew_500,Flight Attendant,Qual_B,Preferred off on weekends
+501,Crew_501,Co-Pilot,Qual_C,Overtime on_weekends
+502,Crew_502,Flight Attendant,Qual_A,Consecutive_days off
+503,Crew_503,Flight Attendant,Qual_B,Preferred off on weekends
+504,Crew_504,Co-Pilot,Qual_C,Overtime on_weekends
+505,Crew_505,Pilot,Qual_A,Consecutive_days off
+506,Crew_506,Pilot,Qual_B,Preferred off on weekends
+507,Crew_507,Pilot,Qual_C,Overtime on_weekends
+508,Crew_508,Flight Attendant,Qual_A,Consecutive_days off
+509,Crew_509,Co-Pilot,Qual_B,Preferred off on weekends
+510,Crew_510,Pilot,Qual_C,Overtime on_weekends
+511,Crew_511,Pilot,Qual_A,Consecutive_days off
+512,Crew_512,Flight Attendant,Qual_B,Preferred off on weekends
+513,Crew_513,Flight Attendant,Qual_C,Overtime on_weekends
+514,Crew_514,Co-Pilot,Qual_A,Consecutive_days off
+515,Crew_515,Pilot,Qual_B,Preferred off on weekends
+516,Crew_516,Pilot,Qual_C,Overtime on_weekends
+517,Crew_517,Co-Pilot,Qual_A,Consecutive_days off
+518,Crew_518,Flight Attendant,Qual_B,Preferred off on weekends
+519,Crew_519,Flight Attendant,Qual_C,Overtime on_weekends
+520,Crew_520,Flight Attendant,Qual_A,Consecutive_days off
+521,Crew_521,Co-Pilot,Qual_B,Preferred off on weekends
+522,Crew_522,Flight Attendant,Qual_C,Overtime on_weekends
+523,Crew_523,Pilot,Qual_A,Consecutive_days off
+524,Crew_524,Pilot,Qual_B,Preferred off on weekends
+525,Crew_525,Flight Attendant,Qual_C,Overtime on_weekends
+526,Crew_526,Flight Attendant,Qual_A,Consecutive_days off
+527,Crew_527,Flight Attendant,Qual_B,Preferred off on weekends
+528,Crew_528,Co-Pilot,Qual_C,Overtime on_weekends
+529,Crew_529,Pilot,Qual_A,Consecutive_days off
+530,Crew_530,Co-Pilot,Qual_B,Preferred off on weekends
+531,Crew_531,Co-Pilot,Qual_C,Overtime on_weekends
+532,Crew_532,Co-Pilot,Qual_A,Consecutive_days off
+533,Crew_533,Flight Attendant,Qual_B,Preferred off on weekends
+534,Crew_534,Co-Pilot,Qual_C,Overtime on_weekends
+535,Crew_535,Co-Pilot,Qual_A,Consecutive_days off
+536,Crew_536,Flight Attendant,Qual_B,Preferred off on weekends
+537,Crew_537,Co-Pilot,Qual_C,Overtime on_weekends
+538,Crew_538,Co-Pilot,Qual_A,Consecutive_days off
+539,Crew_539,Flight Attendant,Qual_B,Preferred off on weekends
+540,Crew_540,Co-Pilot,Qual_C,Overtime on_weekends
+541,Crew_541,Co-Pilot,Qual_A,Consecutive_days off
+542,Crew_542,Pilot,Qual_B,Preferred off on weekends
+543,Crew_543,Flight Attendant,Qual_C,Overtime on_weekends
+544,Crew_544,Pilot,Qual_A,Consecutive_days off
+545,Crew_545,Pilot,Qual_B,Preferred off on weekends
+546,Crew_546,Pilot,Qual_C,Overtime on_weekends
+547,Crew_547,Pilot,Qual_A,Consecutive_days off
+548,Crew_548,Pilot,Qual_B,Preferred off on weekends
+549,Crew_549,Pilot,Qual_C,Overtime on_weekends
+550,Crew_550,Flight Attendant,Qual_A,Consecutive_days off
+551,Crew_551,Co-Pilot,Qual_B,Preferred off on weekends
+552,Crew_552,Co-Pilot,Qual_C,Overtime on_weekends
+553,Crew_553,Flight Attendant,Qual_A,Consecutive_days off
+554,Crew_554,Pilot,Qual_B,Preferred off on weekends
+555,Crew_555,Pilot,Qual_C,Overtime on_weekends
+556,Crew_556,Co-Pilot,Qual_A,Consecutive_days off
+557,Crew_557,Pilot,Qual_B,Preferred off on weekends
+558,Crew_558,Co-Pilot,Qual_C,Overtime on_weekends
+559,Crew_559,Flight Attendant,Qual_A,Consecutive_days off
+560,Crew_560,Flight Attendant,Qual_B,Preferred off on weekends
+561,Crew_561,Pilot,Qual_C,Overtime on_weekends
+562,Crew_562,Co-Pilot,Qual_A,Consecutive_days off
+563,Crew_563,Pilot,Qual_B,Preferred off on weekends
+564,Crew_564,Co-Pilot,Qual_C,Overtime on_weekends
+565,Crew_565,Flight Attendant,Qual_A,Consecutive_days off
+566,Crew_566,Co-Pilot,Qual_B,Preferred off on weekends
+567,Crew_567,Flight Attendant,Qual_C,Overtime on_weekends
+568,Crew_568,Pilot,Qual_A,Consecutive_days off
+569,Crew_569,Co-Pilot,Qual_B,Preferred off on weekends
+570,Crew_570,Co-Pilot,Qual_C,Overtime on_weekends
+571,Crew_571,Flight Attendant,Qual_A,Consecutive_days off
+572,Crew_572,Pilot,Qual_B,Preferred off on weekends
+573,Crew_573,Flight Attendant,Qual_C,Overtime on_weekends
+574,Crew_574,Co-Pilot,Qual_A,Consecutive_days off
+575,Crew_575,Flight Attendant,Qual_B,Preferred off on weekends
+576,Crew_576,Co-Pilot,Qual_C,Overtime on_weekends
+577,Crew_577,Co-Pilot,Qual_A,Consecutive_days off
+578,Crew_578,Pilot,Qual_B,Preferred off on weekends
+579,Crew_579,Pilot,Qual_C,Overtime on_weekends
+580,Crew_580,Pilot,Qual_A,Consecutive_days off
+581,Crew_581,Pilot,Qual_B,Preferred off on weekends
+582,Crew_582,Flight Attendant,Qual_C,Overtime on_weekends
+583,Crew_583,Pilot,Qual_A,Consecutive_days off
+584,Crew_584,Co-Pilot,Qual_B,Preferred off on weekends
+585,Crew_585,Co-Pilot,Qual_C,Overtime on_weekends
+586,Crew_586,Flight Attendant,Qual_A,Consecutive_days off
+587,Crew_587,Co-Pilot,Qual_B,Preferred off on weekends
+588,Crew_588,Pilot,Qual_C,Overtime on_weekends
+589,Crew_589,Flight Attendant,Qual_A,Consecutive_days off
+590,Crew_590,Pilot,Qual_B,Preferred off on weekends
+591,Crew_591,Co-Pilot,Qual_C,Overtime on_weekends
+592,Crew_592,Pilot,Qual_A,Consecutive_days off
+593,Crew_593,Flight Attendant,Qual_B,Preferred off on weekends
+594,Crew_594,Flight Attendant,Qual_C,Overtime on_weekends
+595,Crew_595,Co-Pilot,Qual_A,Consecutive_days off
+596,Crew_596,Co-Pilot,Qual_B,Preferred off on weekends
+597,Crew_597,Flight Attendant,Qual_C,Overtime on_weekends
+598,Crew_598,Flight Attendant,Qual_A,Consecutive_days off
+599,Crew_599,Co-Pilot,Qual_B,Preferred off on weekends
+600,Crew_600,Co-Pilot,Qual_C,Overtime on_weekends
+601,Crew_601,Pilot,Qual_A,Consecutive_days off
+602,Crew_602,Pilot,Qual_B,Preferred off on weekends
+603,Crew_603,Co-Pilot,Qual_C,Overtime on_weekends
+604,Crew_604,Pilot,Qual_A,Consecutive_days off
+605,Crew_605,Co-Pilot,Qual_B,Preferred off on weekends
+606,Crew_606,Flight Attendant,Qual_C,Overtime on_weekends
+607,Crew_607,Pilot,Qual_A,Consecutive_days off
+608,Crew_608,Co-Pilot,Qual_B,Preferred off on weekends
+609,Crew_609,Co-Pilot,Qual_C,Overtime on_weekends
+610,Crew_610,Co-Pilot,Qual_A,Consecutive_days off
+611,Crew_611,Co-Pilot,Qual_B,Preferred off on weekends
+612,Crew_612,Co-Pilot,Qual_C,Overtime on_weekends
+613,Crew_613,Pilot,Qual_A,Consecutive_days off
+614,Crew_614,Pilot,Qual_B,Preferred off on weekends
+615,Crew_615,Flight Attendant,Qual_C,Overtime on_weekends
+616,Crew_616,Co-Pilot,Qual_A,Consecutive_days off
+617,Crew_617,Pilot,Qual_B,Preferred off on weekends
+618,Crew_618,Co-Pilot,Qual_C,Overtime on_weekends
+619,Crew_619,Co-Pilot,Qual_A,Consecutive_days off
+620,Crew_620,Flight Attendant,Qual_B,Preferred off on weekends
+621,Crew_621,Co-Pilot,Qual_C,Overtime on_weekends
+622,Crew_622,Pilot,Qual_A,Consecutive_days off
+623,Crew_623,Co-Pilot,Qual_B,Preferred off on weekends
+624,Crew_624,Flight Attendant,Qual_C,Overtime on_weekends
+625,Crew_625,Pilot,Qual_A,Consecutive_days off
+626,Crew_626,Pilot,Qual_B,Preferred off on weekends
+627,Crew_627,Flight Attendant,Qual_C,Overtime on_weekends
+628,Crew_628,Pilot,Qual_A,Consecutive_days off
+629,Crew_629,Pilot,Qual_B,Preferred off on weekends
+630,Crew_630,Pilot,Qual_C,Overtime on_weekends
+631,Crew_631,Flight Attendant,Qual_A,Consecutive_days off
+632,Crew_632,Pilot,Qual_B,Preferred off on weekends
+633,Crew_633,Pilot,Qual_C,Overtime on_weekends
+634,Crew_634,Flight Attendant,Qual_A,Consecutive_days off
+635,Crew_635,Co-Pilot,Qual_B,Preferred off on weekends
+636,Crew_636,Co-Pilot,Qual_C,Overtime on_weekends
+637,Crew_637,Flight Attendant,Qual_A,Consecutive_days off
+638,Crew_638,Pilot,Qual_B,Preferred off on weekends
+639,Crew_639,Pilot,Qual_C,Overtime on_weekends
+640,Crew_640,Flight Attendant,Qual_A,Consecutive_days off
+641,Crew_641,Flight Attendant,Qual_B,Preferred off on weekends
+642,Crew_642,Pilot,Qual_C,Overtime on_weekends
+643,Crew_643,Flight Attendant,Qual_A,Consecutive_days off
+644,Crew_644,Flight Attendant,Qual_B,Preferred off on weekends
+645,Crew_645,Pilot,Qual_C,Overtime on_weekends
+646,Crew_646,Pilot,Qual_A,Consecutive_days off
+647,Crew_647,Co-Pilot,Qual_B,Preferred off on weekends
+648,Crew_648,Co-Pilot,Qual_C,Overtime on_weekends
+649,Crew_649,Flight Attendant,Qual_A,Consecutive_days off
+650,Crew_650,Pilot,Qual_B,Preferred off on weekends
+651,Crew_651,Co-Pilot,Qual_C,Overtime on_weekends
+652,Crew_652,Co-Pilot,Qual_A,Consecutive_days off
+653,Crew_653,Pilot,Qual_B,Preferred off on weekends
+654,Crew_654,Co-Pilot,Qual_C,Overtime on_weekends
+655,Crew_655,Pilot,Qual_A,Consecutive_days off
+656,Crew_656,Pilot,Qual_B,Preferred off on weekends
+657,Crew_657,Co-Pilot,Qual_C,Overtime on_weekends
+658,Crew_658,Flight Attendant,Qual_A,Consecutive_days off
+659,Crew_659,Flight Attendant,Qual_B,Preferred off on weekends
+660,Crew_660,Flight Attendant,Qual_C,Overtime on_weekends
+661,Crew_661,Pilot,Qual_A,Consecutive_days off
+662,Crew_662,Flight Attendant,Qual_B,Preferred off on weekends
+663,Crew_663,Flight Attendant,Qual_C,Overtime on_weekends
+664,Crew_664,Pilot,Qual_A,Consecutive_days off
+665,Crew_665,Flight Attendant,Qual_B,Preferred off on weekends
+666,Crew_666,Flight Attendant,Qual_C,Overtime on_weekends
+667,Crew_667,Co-Pilot,Qual_A,Consecutive_days off
+668,Crew_668,Pilot,Qual_B,Preferred off on weekends
+669,Crew_669,Co-Pilot,Qual_C,Overtime on_weekends
+670,Crew_670,Flight Attendant,Qual_A,Consecutive_days off
+671,Crew_671,Flight Attendant,Qual_B,Preferred off on weekends
+672,Crew_672,Pilot,Qual_C,Overtime on_weekends
+673,Crew_673,Co-Pilot,Qual_A,Consecutive_days off
+674,Crew_674,Pilot,Qual_B,Preferred off on weekends
+675,Crew_675,Co-Pilot,Qual_C,Overtime on_weekends
+676,Crew_676,Pilot,Qual_A,Consecutive_days off
+677,Crew_677,Pilot,Qual_B,Preferred off on weekends
+678,Crew_678,Co-Pilot,Qual_C,Overtime on_weekends
+679,Crew_679,Flight Attendant,Qual_A,Consecutive_days off
+680,Crew_680,Flight Attendant,Qual_B,Preferred off on weekends
+681,Crew_681,Pilot,Qual_C,Overtime on_weekends
+682,Crew_682,Co-Pilot,Qual_A,Consecutive_days off
+683,Crew_683,Co-Pilot,Qual_B,Preferred off on weekends
+684,Crew_684,Co-Pilot,Qual_C,Overtime on_weekends
+685,Crew_685,Co-Pilot,Qual_A,Consecutive_days off
+686,Crew_686,Flight Attendant,Qual_B,Preferred off on weekends
+687,Crew_687,Co-Pilot,Qual_C,Overtime on_weekends
+688,Crew_688,Flight Attendant,Qual_A,Consecutive_days off
+689,Crew_689,Pilot,Qual_B,Preferred off on weekends
+690,Crew_690,Co-Pilot,Qual_C,Overtime on_weekends
+691,Crew_691,Pilot,Qual_A,Consecutive_days off
+692,Crew_692,Pilot,Qual_B,Preferred off on weekends
+693,Crew_693,Pilot,Qual_C,Overtime on_weekends
+694,Crew_694,Flight Attendant,Qual_A,Consecutive_days off
+695,Crew_695,Flight Attendant,Qual_B,Preferred off on weekends
+696,Crew_696,Pilot,Qual_C,Overtime on_weekends
+697,Crew_697,Flight Attendant,Qual_A,Consecutive_days off
+698,Crew_698,Pilot,Qual_B,Preferred off on weekends
+699,Crew_699,Co-Pilot,Qual_C,Overtime on_weekends
+700,Crew_700,Flight Attendant,Qual_A,Consecutive_days off
+701,Crew_701,Pilot,Qual_B,Preferred off on weekends
+702,Crew_702,Pilot,Qual_C,Overtime on_weekends
+703,Crew_703,Pilot,Qual_A,Consecutive_days off
+704,Crew_704,Pilot,Qual_B,Preferred off on weekends
+705,Crew_705,Flight Attendant,Qual_C,Overtime on_weekends
+706,Crew_706,Co-Pilot,Qual_A,Consecutive_days off
+707,Crew_707,Pilot,Qual_B,Preferred off on weekends
+708,Crew_708,Flight Attendant,Qual_C,Overtime on_weekends
+709,Crew_709,Flight Attendant,Qual_A,Consecutive_days off
+710,Crew_710,Co-Pilot,Qual_B,Preferred off on weekends
+711,Crew_711,Flight Attendant,Qual_C,Overtime on_weekends
+712,Crew_712,Flight Attendant,Qual_A,Consecutive_days off
+713,Crew_713,Co-Pilot,Qual_B,Preferred off on weekends
+714,Crew_714,Flight Attendant,Qual_C,Overtime on_weekends
+715,Crew_715,Pilot,Qual_A,Consecutive_days off
+716,Crew_716,Flight Attendant,Qual_B,Preferred off on weekends
+717,Crew_717,Co-Pilot,Qual_C,Overtime on_weekends
+718,Crew_718,Pilot,Qual_A,Consecutive_days off
+719,Crew_719,Pilot,Qual_B,Preferred off on weekends
+720,Crew_720,Pilot,Qual_C,Overtime on_weekends
+721,Crew_721,Pilot,Qual_A,Consecutive_days off
+722,Crew_722,Pilot,Qual_B,Preferred off on weekends
+723,Crew_723,Co-Pilot,Qual_C,Overtime on_weekends
+724,Crew_724,Pilot,Qual_A,Consecutive_days off
+725,Crew_725,Flight Attendant,Qual_B,Preferred off on weekends
+726,Crew_726,Flight Attendant,Qual_C,Overtime on_weekends
+727,Crew_727,Flight Attendant,Qual_A,Consecutive_days off
+728,Crew_728,Co-Pilot,Qual_B,Preferred off on weekends
+729,Crew_729,Co-Pilot,Qual_C,Overtime on_weekends
+730,Crew_730,Pilot,Qual_A,Consecutive_days off
+731,Crew_731,Pilot,Qual_B,Preferred off on weekends
+732,Crew_732,Pilot,Qual_C,Overtime on_weekends
+733,Crew_733,Co-Pilot,Qual_A,Consecutive_days off
+734,Crew_734,Co-Pilot,Qual_B,Preferred off on weekends
+735,Crew_735,Flight Attendant,Qual_C,Overtime on_weekends
+736,Crew_736,Flight Attendant,Qual_A,Consecutive_days off
+737,Crew_737,Pilot,Qual_B,Preferred off on weekends
+738,Crew_738,Pilot,Qual_C,Overtime on_weekends
+739,Crew_739,Co-Pilot,Qual_A,Consecutive_days off
+740,Crew_740,Pilot,Qual_B,Preferred off on weekends
+741,Crew_741,Pilot,Qual_C,Overtime on_weekends
+742,Crew_742,Flight Attendant,Qual_A,Consecutive_days off
+743,Crew_743,Pilot,Qual_B,Preferred off on weekends
+744,Crew_744,Co-Pilot,Qual_C,Overtime on_weekends
+745,Crew_745,Pilot,Qual_A,Consecutive_days off
+746,Crew_746,Co-Pilot,Qual_B,Preferred off on weekends
+747,Crew_747,Flight Attendant,Qual_C,Overtime on_weekends
+748,Crew_748,Pilot,Qual_A,Consecutive_days off
+749,Crew_749,Pilot,Qual_B,Preferred off on weekends
+750,Crew_750,Flight Attendant,Qual_C,Overtime on_weekends
+751,Crew_751,Pilot,Qual_A,Consecutive_days off
+752,Crew_752,Pilot,Qual_B,Preferred off on weekends
+753,Crew_753,Co-Pilot,Qual_C,Overtime on_weekends
+754,Crew_754,Co-Pilot,Qual_A,Consecutive_days off
+755,Crew_755,Co-Pilot,Qual_B,Preferred off on weekends
+756,Crew_756,Flight Attendant,Qual_C,Overtime on_weekends
+757,Crew_757,Co-Pilot,Qual_A,Consecutive_days off
+758,Crew_758,Co-Pilot,Qual_B,Preferred off on weekends
+759,Crew_759,Co-Pilot,Qual_C,Overtime on_weekends
+760,Crew_760,Flight Attendant,Qual_A,Consecutive_days off
+761,Crew_761,Co-Pilot,Qual_B,Preferred off on weekends
+762,Crew_762,Flight Attendant,Qual_C,Overtime on_weekends
+763,Crew_763,Pilot,Qual_A,Consecutive_days off
+764,Crew_764,Flight Attendant,Qual_B,Preferred off on weekends
+765,Crew_765,Pilot,Qual_C,Overtime on_weekends
+766,Crew_766,Flight Attendant,Qual_A,Consecutive_days off
+767,Crew_767,Pilot,Qual_B,Preferred off on weekends
+768,Crew_768,Pilot,Qual_C,Overtime on_weekends
+769,Crew_769,Flight Attendant,Qual_A,Consecutive_days off
+770,Crew_770,Flight Attendant,Qual_B,Preferred off on weekends
+771,Crew_771,Pilot,Qual_C,Overtime on_weekends
+772,Crew_772,Pilot,Qual_A,Consecutive_days off
+773,Crew_773,Co-Pilot,Qual_B,Preferred off on weekends
+774,Crew_774,Co-Pilot,Qual_C,Overtime on_weekends
+775,Crew_775,Pilot,Qual_A,Consecutive_days off
+776,Crew_776,Pilot,Qual_B,Preferred off on weekends
+777,Crew_777,Co-Pilot,Qual_C,Overtime on_weekends
+778,Crew_778,Flight Attendant,Qual_A,Consecutive_days off
+779,Crew_779,Co-Pilot,Qual_B,Preferred off on weekends
+780,Crew_780,Flight Attendant,Qual_C,Overtime on_weekends
+781,Crew_781,Co-Pilot,Qual_A,Consecutive_days off
+782,Crew_782,Co-Pilot,Qual_B,Preferred off on weekends
+783,Crew_783,Pilot,Qual_C,Overtime on_weekends
+784,Crew_784,Pilot,Qual_A,Consecutive_days off
+785,Crew_785,Flight Attendant,Qual_B,Preferred off on weekends
+786,Crew_786,Flight Attendant,Qual_C,Overtime on_weekends
+787,Crew_787,Flight Attendant,Qual_A,Consecutive_days off
+788,Crew_788,Co-Pilot,Qual_B,Preferred off on weekends
+789,Crew_789,Pilot,Qual_C,Overtime on_weekends
+790,Crew_790,Pilot,Qual_A,Consecutive_days off
+791,Crew_791,Co-Pilot,Qual_B,Preferred off on weekends
+792,Crew_792,Pilot,Qual_C,Overtime on_weekends
+793,Crew_793,Flight Attendant,Qual_A,Consecutive_days off
+794,Crew_794,Flight Attendant,Qual_B,Preferred off on weekends
+795,Crew_795,Pilot,Qual_C,Overtime on_weekends
+796,Crew_796,Flight Attendant,Qual_A,Consecutive_days off
+797,Crew_797,Pilot,Qual_B,Preferred off on weekends
+798,Crew_798,Co-Pilot,Qual_C,Overtime on_weekends
+799,Crew_799,Pilot,Qual_A,Consecutive_days off
+800,Crew_800,Co-Pilot,Qual_B,Preferred off on weekends
+801,Crew_801,Pilot,Qual_C,Overtime on_weekends
+802,Crew_802,Pilot,Qual_A,Consecutive_days off
+803,Crew_803,Pilot,Qual_B,Preferred off on weekends
+804,Crew_804,Co-Pilot,Qual_C,Overtime on_weekends
+805,Crew_805,Pilot,Qual_A,Consecutive_days off
+806,Crew_806,Co-Pilot,Qual_B,Preferred off on weekends
+807,Crew_807,Co-Pilot,Qual_C,Overtime on_weekends
+808,Crew_808,Co-Pilot,Qual_A,Consecutive_days off
+809,Crew_809,Co-Pilot,Qual_B,Preferred off on weekends
+810,Crew_810,Pilot,Qual_C,Overtime on_weekends
+811,Crew_811,Pilot,Qual_A,Consecutive_days off
+812,Crew_812,Flight Attendant,Qual_B,Preferred off on weekends
+813,Crew_813,Flight Attendant,Qual_C,Overtime on_weekends
+814,Crew_814,Co-Pilot,Qual_A,Consecutive_days off
+815,Crew_815,Pilot,Qual_B,Preferred off on weekends
+816,Crew_816,Pilot,Qual_C,Overtime on_weekends
+817,Crew_817,Pilot,Qual_A,Consecutive_days off
+818,Crew_818,Co-Pilot,Qual_B,Preferred off on weekends
+819,Crew_819,Flight Attendant,Qual_C,Overtime on_weekends
+820,Crew_820,Flight Attendant,Qual_A,Consecutive_days off
+821,Crew_821,Co-Pilot,Qual_B,Preferred off on weekends
+822,Crew_822,Flight Attendant,Qual_C,Overtime on_weekends
+823,Crew_823,Co-Pilot,Qual_A,Consecutive_days off
+824,Crew_824,Co-Pilot,Qual_B,Preferred off on weekends
+825,Crew_825,Flight Attendant,Qual_C,Overtime on_weekends
+826,Crew_826,Pilot,Qual_A,Consecutive_days off
+827,Crew_827,Flight Attendant,Qual_B,Preferred off on weekends
+828,Crew_828,Flight Attendant,Qual_C,Overtime on_weekends
+829,Crew_829,Co-Pilot,Qual_A,Consecutive_days off
+830,Crew_830,Co-Pilot,Qual_B,Preferred off on weekends
+831,Crew_831,Pilot,Qual_C,Overtime on_weekends
+832,Crew_832,Co-Pilot,Qual_A,Consecutive_days off
+833,Crew_833,Co-Pilot,Qual_B,Preferred off on weekends
+834,Crew_834,Flight Attendant,Qual_C,Overtime on_weekends
+835,Crew_835,Pilot,Qual_A,Consecutive_days off
+836,Crew_836,Flight Attendant,Qual_B,Preferred off on weekends
+837,Crew_837,Pilot,Qual_C,Overtime on_weekends
+838,Crew_838,Co-Pilot,Qual_A,Consecutive_days off
+839,Crew_839,Pilot,Qual_B,Preferred off on weekends
+840,Crew_840,Co-Pilot,Qual_C,Overtime on_weekends
+841,Crew_841,Flight Attendant,Qual_A,Consecutive_days off
+842,Crew_842,Pilot,Qual_B,Preferred off on weekends
+843,Crew_843,Co-Pilot,Qual_C,Overtime on_weekends
+844,Crew_844,Flight Attendant,Qual_A,Consecutive_days off
+845,Crew_845,Pilot,Qual_B,Preferred off on weekends
+846,Crew_846,Flight Attendant,Qual_C,Overtime on_weekends
+847,Crew_847,Pilot,Qual_A,Consecutive_days off
+848,Crew_848,Flight Attendant,Qual_B,Preferred off on weekends
+849,Crew_849,Flight Attendant,Qual_C,Overtime on_weekends
+850,Crew_850,Co-Pilot,Qual_A,Consecutive_days off
+851,Crew_851,Co-Pilot,Qual_B,Preferred off on weekends
+852,Crew_852,Co-Pilot,Qual_C,Overtime on_weekends
+853,Crew_853,Co-Pilot,Qual_A,Consecutive_days off
+854,Crew_854,Pilot,Qual_B,Preferred off on weekends
+855,Crew_855,Co-Pilot,Qual_C,Overtime on_weekends
+856,Crew_856,Co-Pilot,Qual_A,Consecutive_days off
+857,Crew_857,Flight Attendant,Qual_B,Preferred off on weekends
+858,Crew_858,Pilot,Qual_C,Overtime on_weekends
+859,Crew_859,Pilot,Qual_A,Consecutive_days off
+860,Crew_860,Flight Attendant,Qual_B,Preferred off on weekends
+861,Crew_861,Pilot,Qual_C,Overtime on_weekends
+862,Crew_862,Co-Pilot,Qual_A,Consecutive_days off
+863,Crew_863,Flight Attendant,Qual_B,Preferred off on weekends
+864,Crew_864,Pilot,Qual_C,Overtime on_weekends
+865,Crew_865,Flight Attendant,Qual_A,Consecutive_days off
+866,Crew_866,Flight Attendant,Qual_B,Preferred off on weekends
+867,Crew_867,Flight Attendant,Qual_C,Overtime on_weekends
+868,Crew_868,Pilot,Qual_A,Consecutive_days off
+869,Crew_869,Flight Attendant,Qual_B,Preferred off on weekends
+870,Crew_870,Co-Pilot,Qual_C,Overtime on_weekends
+871,Crew_871,Flight Attendant,Qual_A,Consecutive_days off
+872,Crew_872,Pilot,Qual_B,Preferred off on weekends
+873,Crew_873,Flight Attendant,Qual_C,Overtime on_weekends
+874,Crew_874,Co-Pilot,Qual_A,Consecutive_days off
+875,Crew_875,Pilot,Qual_B,Preferred off on weekends
+876,Crew_876,Co-Pilot,Qual_C,Overtime on_weekends
+877,Crew_877,Flight Attendant,Qual_A,Consecutive_days off
+878,Crew_878,Pilot,Qual_B,Preferred off on weekends
+879,Crew_879,Flight Attendant,Qual_C,Overtime on_weekends
+880,Crew_880,Co-Pilot,Qual_A,Consecutive_days off
+881,Crew_881,Flight Attendant,Qual_B,Preferred off on weekends
+882,Crew_882,Pilot,Qual_C,Overtime on_weekends
+883,Crew_883,Flight Attendant,Qual_A,Consecutive_days off
+884,Crew_884,Co-Pilot,Qual_B,Preferred off on weekends
+885,Crew_885,Co-Pilot,Qual_C,Overtime on_weekends
+886,Crew_886,Flight Attendant,Qual_A,Consecutive_days off
+887,Crew_887,Pilot,Qual_B,Preferred off on weekends
+888,Crew_888,Co-Pilot,Qual_C,Overtime on_weekends
+889,Crew_889,Co-Pilot,Qual_A,Consecutive_days off
+890,Crew_890,Flight Attendant,Qual_B,Preferred off on weekends
+891,Crew_891,Pilot,Qual_C,Overtime on_weekends
+892,Crew_892,Pilot,Qual_A,Consecutive_days off
+893,Crew_893,Flight Attendant,Qual_B,Preferred off on weekends
+894,Crew_894,Flight Attendant,Qual_C,Overtime on_weekends
+895,Crew_895,Pilot,Qual_A,Consecutive_days off
+896,Crew_896,Pilot,Qual_B,Preferred off on weekends
+897,Crew_897,Co-Pilot,Qual_C,Overtime on_weekends
+898,Crew_898,Pilot,Qual_A,Consecutive_days off
+899,Crew_899,Pilot,Qual_B,Preferred off on weekends
+900,Crew_900,Flight Attendant,Qual_C,Overtime on_weekends
+901,Crew_901,Co-Pilot,Qual_A,Consecutive_days off
+902,Crew_902,Co-Pilot,Qual_B,Preferred off on weekends
+903,Crew_903,Flight Attendant,Qual_C,Overtime on_weekends
+904,Crew_904,Pilot,Qual_A,Consecutive_days off
+905,Crew_905,Co-Pilot,Qual_B,Preferred off on weekends
+906,Crew_906,Pilot,Qual_C,Overtime on_weekends
+907,Crew_907,Flight Attendant,Qual_A,Consecutive_days off
+908,Crew_908,Pilot,Qual_B,Preferred off on weekends
+909,Crew_909,Flight Attendant,Qual_C,Overtime on_weekends
+910,Crew_910,Co-Pilot,Qual_A,Consecutive_days off
+911,Crew_911,Pilot,Qual_B,Preferred off on weekends
+912,Crew_912,Flight Attendant,Qual_C,Overtime on_weekends
+913,Crew_913,Flight Attendant,Qual_A,Consecutive_days off
+914,Crew_914,Co-Pilot,Qual_B,Preferred off on weekends
+915,Crew_915,Flight Attendant,Qual_C,Overtime on_weekends
+916,Crew_916,Pilot,Qual_A,Consecutive_days off
+917,Crew_917,Pilot,Qual_B,Preferred off on weekends
+918,Crew_918,Pilot,Qual_C,Overtime on_weekends
+919,Crew_919,Pilot,Qual_A,Consecutive_days off
+920,Crew_920,Flight Attendant,Qual_B,Preferred off on weekends
+921,Crew_921,Pilot,Qual_C,Overtime on_weekends
+922,Crew_922,Flight Attendant,Qual_A,Consecutive_days off
+923,Crew_923,Pilot,Qual_B,Preferred off on weekends
+924,Crew_924,Pilot,Qual_C,Overtime on_weekends
+925,Crew_925,Flight Attendant,Qual_A,Consecutive_days off
+926,Crew_926,Flight Attendant,Qual_B,Preferred off on weekends
+927,Crew_927,Co-Pilot,Qual_C,Overtime on_weekends
+928,Crew_928,Flight Attendant,Qual_A,Consecutive_days off
+929,Crew_929,Flight Attendant,Qual_B,Preferred off on weekends
+930,Crew_930,Flight Attendant,Qual_C,Overtime on_weekends
+931,Crew_931,Flight Attendant,Qual_A,Consecutive_days off
+932,Crew_932,Co-Pilot,Qual_B,Preferred off on weekends
+933,Crew_933,Co-Pilot,Qual_C,Overtime on_weekends
+934,Crew_934,Co-Pilot,Qual_A,Consecutive_days off
+935,Crew_935,Co-Pilot,Qual_B,Preferred off on weekends
+936,Crew_936,Pilot,Qual_C,Overtime on_weekends
+937,Crew_937,Co-Pilot,Qual_A,Consecutive_days off
+938,Crew_938,Co-Pilot,Qual_B,Preferred off on weekends
+939,Crew_939,Pilot,Qual_C,Overtime on_weekends
+940,Crew_940,Flight Attendant,Qual_A,Consecutive_days off
+941,Crew_941,Pilot,Qual_B,Preferred off on weekends
+942,Crew_942,Co-Pilot,Qual_C,Overtime on_weekends
+943,Crew_943,Pilot,Qual_A,Consecutive_days off
+944,Crew_944,Co-Pilot,Qual_B,Preferred off on weekends
+945,Crew_945,Co-Pilot,Qual_C,Overtime on_weekends
+946,Crew_946,Pilot,Qual_A,Consecutive_days off
+947,Crew_947,Pilot,Qual_B,Preferred off on weekends
+948,Crew_948,Pilot,Qual_C,Overtime on_weekends
+949,Crew_949,Flight Attendant,Qual_A,Consecutive_days off
+950,Crew_950,Co-Pilot,Qual_B,Preferred off on weekends
+951,Crew_951,Co-Pilot,Qual_C,Overtime on_weekends
+952,Crew_952,Flight Attendant,Qual_A,Consecutive_days off
+953,Crew_953,Pilot,Qual_B,Preferred off on weekends
+954,Crew_954,Pilot,Qual_C,Overtime on_weekends
+955,Crew_955,Flight Attendant,Qual_A,Consecutive_days off
+956,Crew_956,Pilot,Qual_B,Preferred off on weekends
+957,Crew_957,Pilot,Qual_C,Overtime on_weekends
+958,Crew_958,Flight Attendant,Qual_A,Consecutive_days off
+959,Crew_959,Flight Attendant,Qual_B,Preferred off on weekends
+960,Crew_960,Flight Attendant,Qual_C,Overtime on_weekends
+961,Crew_961,Co-Pilot,Qual_A,Consecutive_days off
+962,Crew_962,Pilot,Qual_B,Preferred off on weekends
+963,Crew_963,Pilot,Qual_C,Overtime on_weekends
+964,Crew_964,Flight Attendant,Qual_A,Consecutive_days off
+965,Crew_965,Flight Attendant,Qual_B,Preferred off on weekends
+966,Crew_966,Flight Attendant,Qual_C,Overtime on_weekends
+967,Crew_967,Pilot,Qual_A,Consecutive_days off
+968,Crew_968,Pilot,Qual_B,Preferred off on weekends
+969,Crew_969,Flight Attendant,Qual_C,Overtime on_weekends
+970,Crew_970,Co-Pilot,Qual_A,Consecutive_days off
+971,Crew_971,Co-Pilot,Qual_B,Preferred off on weekends
+972,Crew_972,Flight Attendant,Qual_C,Overtime on_weekends
+973,Crew_973,Pilot,Qual_A,Consecutive_days off
+974,Crew_974,Flight Attendant,Qual_B,Preferred off on weekends
+975,Crew_975,Flight Attendant,Qual_C,Overtime on_weekends
+976,Crew_976,Co-Pilot,Qual_A,Consecutive_days off
+977,Crew_977,Flight Attendant,Qual_B,Preferred off on weekends
+978,Crew_978,Flight Attendant,Qual_C,Overtime on_weekends
+979,Crew_979,Pilot,Qual_A,Consecutive_days off
+980,Crew_980,Pilot,Qual_B,Preferred off on weekends
+981,Crew_981,Co-Pilot,Qual_C,Overtime on_weekends
+982,Crew_982,Pilot,Qual_A,Consecutive_days off
+983,Crew_983,Co-Pilot,Qual_B,Preferred off on weekends
+984,Crew_984,Co-Pilot,Qual_C,Overtime on_weekends
+985,Crew_985,Pilot,Qual_A,Consecutive_days off
+986,Crew_986,Co-Pilot,Qual_B,Preferred off on weekends
+987,Crew_987,Pilot,Qual_C,Overtime on_weekends
+988,Crew_988,Flight Attendant,Qual_A,Consecutive_days off
+989,Crew_989,Co-Pilot,Qual_B,Preferred off on weekends
+990,Crew_990,Pilot,Qual_C,Overtime on_weekends
+991,Crew_991,Flight Attendant,Qual_A,Consecutive_days off
+992,Crew_992,Co-Pilot,Qual_B,Preferred off on weekends
+993,Crew_993,Co-Pilot,Qual_C,Overtime on_weekends
+994,Crew_994,Co-Pilot,Qual_A,Consecutive_days off
+995,Crew_995,Co-Pilot,Qual_B,Preferred off on weekends
+996,Crew_996,Co-Pilot,Qual_C,Overtime on_weekends
+997,Crew_997,Pilot,Qual_A,Consecutive_days off
+998,Crew_998,Pilot,Qual_B,Preferred off on weekends
+999,Crew_999,Co-Pilot,Qual_C,Overtime on_weekends
+1000,Crew_1000,Co-Pilot,Qual_A,Consecutive_days off
